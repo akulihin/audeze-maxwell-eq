@@ -1,5 +1,5 @@
 # audeze-maxwell-eq
-EQ Presets for Audeze Maxwell EQ
+EQ Presets for Audeze Maxwell 1
 
 # How to Use
 1. Download
